@@ -1,4 +1,4 @@
-# Change Detection in High-dimensional data streams
+# Stream Autoencoder Windowing (SAW) - Change Detection in High Dimensional Data Streams
 
 This repository contains code of the change detection framework Stream Autoencoder Windowing (SAW) for the detection of concept drift in high dimensional data streams: We train an autoencoder on the incoming data stream and monitor its reconstruction error with a sliding window of adaptive size to detect ''when'' and ''where'' a drift occurs.
 
