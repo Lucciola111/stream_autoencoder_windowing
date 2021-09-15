@@ -1,0 +1,3 @@
+InitialData_ni2000_nd100_m0_v0.25
+DR1_i3000_ni2000_d40_nd10_m2_v0.75
+DR2_i5000_ni5000_d60_nd30_m4_v0.5

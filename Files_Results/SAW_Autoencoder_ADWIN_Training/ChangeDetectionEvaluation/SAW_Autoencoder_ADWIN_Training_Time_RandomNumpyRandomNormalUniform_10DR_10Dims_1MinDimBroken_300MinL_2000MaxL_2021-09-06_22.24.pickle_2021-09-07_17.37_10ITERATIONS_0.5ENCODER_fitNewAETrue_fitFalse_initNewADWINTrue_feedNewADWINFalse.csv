@@ -1,0 +1,2 @@
+,% Changes detected,Mean time until detection (instances),Precision_60,Precision_120,Precision_180,Precision_300,Recall_60,Recall_120,Recall_180,Recall_300,F1Score_60,F1Score_120,F1Score_180,F1Score_300,Time per Example
+0,44.0,448.8,0.025,0.095,0.18,0.32999999999999996,0.01,0.04,0.08,0.14,0.014285714285714287,0.05619047619047619,0.11047619047619048,0.1961904761904762,0.0031141003652847433
